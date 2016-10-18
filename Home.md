@@ -11,7 +11,7 @@ Beispiel:
 Hier wird's ernst:
 
     grp01 AndiAndreas HuabaT
-    grp02
+    grp02 andischazi hilakista
     grp03
     grp04
     grp05
