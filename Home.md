@@ -10,7 +10,7 @@ Beispiel:
 
 Hier wird's ernst:
 
-    grp01
+    grp01 AndiAndreas HuabaT
     grp02
     grp03
     grp04
