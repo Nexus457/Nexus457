@@ -12,7 +12,7 @@ Hier wird's ernst:
 
     grp01 AndiAndreas HuabaT
     grp02 andischazi hilakista
-    grp03
+    grp03 diridari JustABunchOfCode 
     grp04
     grp05
     grp06
